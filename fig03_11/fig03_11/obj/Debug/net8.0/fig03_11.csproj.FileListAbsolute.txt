@@ -1,0 +1,14 @@
+C:\Users\lopez\source\repos\fig03_11\fig03_11\obj\Debug\net8.0\fig03_11.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lopez\source\repos\fig03_11\fig03_11\obj\Debug\net8.0\fig03_11.AssemblyInfoInputs.cache
+C:\Users\lopez\source\repos\fig03_11\fig03_11\obj\Debug\net8.0\fig03_11.AssemblyInfo.cs
+C:\Users\lopez\source\repos\fig03_11\fig03_11\obj\Debug\net8.0\fig03_11.csproj.CoreCompileInputs.cache
+C:\Users\lopez\source\repos\fig03_11\fig03_11\bin\Debug\net8.0\fig03_11.exe
+C:\Users\lopez\source\repos\fig03_11\fig03_11\bin\Debug\net8.0\fig03_11.deps.json
+C:\Users\lopez\source\repos\fig03_11\fig03_11\bin\Debug\net8.0\fig03_11.runtimeconfig.json
+C:\Users\lopez\source\repos\fig03_11\fig03_11\bin\Debug\net8.0\fig03_11.dll
+C:\Users\lopez\source\repos\fig03_11\fig03_11\bin\Debug\net8.0\fig03_11.pdb
+C:\Users\lopez\source\repos\fig03_11\fig03_11\obj\Debug\net8.0\fig03_11.dll
+C:\Users\lopez\source\repos\fig03_11\fig03_11\obj\Debug\net8.0\refint\fig03_11.dll
+C:\Users\lopez\source\repos\fig03_11\fig03_11\obj\Debug\net8.0\fig03_11.pdb
+C:\Users\lopez\source\repos\fig03_11\fig03_11\obj\Debug\net8.0\fig03_11.genruntimeconfig.cache
+C:\Users\lopez\source\repos\fig03_11\fig03_11\obj\Debug\net8.0\ref\fig03_11.dll

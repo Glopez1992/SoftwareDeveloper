@@ -1,0 +1,15 @@
+C:\Users\lopez\source\repos\fig3.10\fig3.10\bin\Debug\net8.0\fig3.10.exe
+C:\Users\lopez\source\repos\fig3.10\fig3.10\bin\Debug\net8.0\fig3.10.deps.json
+C:\Users\lopez\source\repos\fig3.10\fig3.10\bin\Debug\net8.0\fig3.10.runtimeconfig.json
+C:\Users\lopez\source\repos\fig3.10\fig3.10\bin\Debug\net8.0\fig3.10.dll
+C:\Users\lopez\source\repos\fig3.10\fig3.10\bin\Debug\net8.0\fig3.10.pdb
+C:\Users\lopez\source\repos\fig3.10\fig3.10\obj\Debug\net8.0\fig3.10.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lopez\source\repos\fig3.10\fig3.10\obj\Debug\net8.0\fig3.10.AssemblyInfoInputs.cache
+C:\Users\lopez\source\repos\fig3.10\fig3.10\obj\Debug\net8.0\fig3.10.AssemblyInfo.cs
+C:\Users\lopez\source\repos\fig3.10\fig3.10\obj\Debug\net8.0\fig3.10.csproj.CoreCompileInputs.cache
+C:\Users\lopez\source\repos\fig3.10\fig3.10\obj\Debug\net8.0\fig3.10.dll
+C:\Users\lopez\source\repos\fig3.10\fig3.10\obj\Debug\net8.0\refint\fig3.10.dll
+C:\Users\lopez\source\repos\fig3.10\fig3.10\obj\Debug\net8.0\fig3.10.pdb
+C:\Users\lopez\source\repos\fig3.10\fig3.10\obj\Debug\net8.0\fig3.10.genruntimeconfig.cache
+C:\Users\lopez\source\repos\fig3.10\fig3.10\obj\Debug\net8.0\ref\fig3.10.dll
+C:\Users\lopez\source\repos\fig3.10\fig3.10\obj\Debug\net8.0\fig3.10.sourcelink.json
